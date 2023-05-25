@@ -2,11 +2,11 @@
 <br>
 
 <p align="center">
-     <a href="#Tecnologias">Tecnologias</a> • 
-     <a href="#Como usar">Como usar</a> • 
-     <a href="#Colaboradores">Colaboradores</a> •
-     <a href="#Licença">Licença</a> •
-     <a href="#Aprendizado">Aprendizado</a>
+     <a href="#-Tecnologias">Tecnologias</a> • 
+     <a href="#-Como usar">Como usar</a> • 
+     <a href="#-Colaboradores">Colaboradores</a> •
+     <a href="#-Licença">Licença</a> 
+-
 </p>
 
 <br>
